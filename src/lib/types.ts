@@ -16,7 +16,7 @@ export interface ThreadData {
 
 export const defaultAuthor: Author = {
 	name: 'Hanif Carroll',
-	handle: 'hanaborern',
+	handle: 'hanifcarroll',
 	avatar: '/avatar.jpg'
 };
 
