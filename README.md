@@ -6,7 +6,7 @@ A local tool to preview X/Twitter threads before posting. See exactly how your t
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-![Screenshot](static/screen.png)
+![Screenshot](static/preview-800.png)
 
 ## Features
 
